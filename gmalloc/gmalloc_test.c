@@ -1,9 +1,9 @@
 #include <stdio.h>
 
+#include "gmalloc.h"
 
 int
 main(int argc, char *argv[])
 {
-    printf("%s", "Hello world!\n");
     return 0;
 }
